@@ -1,2 +1,2 @@
-# Writer-s-Website
+# Dedicated Diary
 Simple Responsive Website.
